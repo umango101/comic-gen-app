@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 export default function Home() {
   const [prompt, setPrompt] = useState("");
